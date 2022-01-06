@@ -8,7 +8,7 @@
     "class": "NC_REFUGEE_Dana",
     "attitude": 0,
     "mission": 7,
-    "chat": "TALK_REFUGEE_Dana_1",
+    "chat": "TALK_REFUGEE_Dana_1_firstmeet",
     "faction": "free_merchants",
     "mission_offered": "MISSION_REFUGEE_Dana_Sourdough"
   },
